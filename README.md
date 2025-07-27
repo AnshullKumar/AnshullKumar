@@ -1,4 +1,3 @@
-# Anshul-Kumar
 # 👋 Hi, I'm Anshul Kumar
 
 🎓 B.Tech in CSE pursuing Data Science @ SMIT  
@@ -15,4 +14,5 @@
 
 ## 🧠 LeetCode Stats
 
-![](https://leetcard.jacoblin.cool/https://leetcode.com/u/AnshulKumar05/?theme=light,unicorn)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AnshulKumar05?theme=light,unicorn)](https://leetcode.com/AnshulKumar05)
+
