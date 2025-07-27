@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm Anshul Kumar
+👋 Hi, I'm Anshul Kumar
 
 ---
 
@@ -12,8 +12,7 @@
 ---
 
 ## 📫 Find Me:
-• 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-• 🔗 [LeetCode](https://leetcode.com/u/AnshulKumar05/))
+• 🔗 [LeetCode](https://leetcode.com/u/AnshulKumar05/)
 • 📧 Mail me at: anshustudy21@gmail.com
 
 ---
