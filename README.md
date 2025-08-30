@@ -2,7 +2,7 @@
 ---
 Who Am I?
 - 👋 Hi, I'm **Anshul Kumar**.
-- 🌱 I’m currently exploring **DSA**.
+- 🌱 I’m currently exploring **Data Structurs and Algorithms**.
 - 🧑🏻‍💻 My Tech Stack: **Figma**, **PowerBI**.
 - 💻 Languages I know: **Python**, **C**, **MySQL**.
 - 🎓 **B.Tech** in **CSE** pursuing **Data Science @ SMIT**. 
